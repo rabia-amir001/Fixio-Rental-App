@@ -1,0 +1,68 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.swiftpm
+
+# User-specific stuff
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Android specific
+**/android/.gradle/
+**/android/captures/
+**/android/gradle/wrapper/gradle-wrapper.jar
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+**/android/local.properties
+local.properties
+
+# iOS / macOS specific
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.framework
+**/ios/Runner/GeneratedPluginRegistrant.h
+**/ios/Runner/GeneratedPluginRegistrant.m
+**/ios/Flutter/ephemeral/
+**/ios/ServiceDefinitions.json
+**/ios/Runner/docsets
+
+**/macos/Flutter/ephemeral/
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Linux / Windows specific
+**/linux/flutter/ephemeral/
+**/windows/flutter/ephemeral/
+
+# Node / Firebase Functions
+node_modules/
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+firebase-debug.log
+firebase-debug.*.log
